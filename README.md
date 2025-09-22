@@ -64,7 +64,7 @@ I hope this program will help someone and make gaming without a runaway cursor e
    
 3. Find your running game (e.g., Heroes III)  
 4. In the **Name** column, you will see something like `HOMM3 2.0.exe`
-  <img width="762" height="316" alt="image" src="https://github.com/user-attachments/assets/631b491e-117d-48ff-ae04-79a736d9b005" />
+   <img width="762" height="316" alt="image" src="https://github.com/user-attachments/assets/631b491e-117d-48ff-ae04-79a736d9b005" />
   
 5. Copy this name and enter it in the program  
 
