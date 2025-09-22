@@ -38,6 +38,7 @@ I hope this program will help someone and make gaming without a runaway cursor e
 
 1. Download the package from GitHub
    <img width="447" height="347" alt="image" src="https://github.com/user-attachments/assets/c9e82503-bf47-4680-b255-b4b514e0d462" />
+   
 2. Extract the folder anywhere on your computer  
 3. Run `NoEscapeCursor.exe` to open the GUI  
   <img width="364" height="88" alt="image" src="https://github.com/user-attachments/assets/6c39410a-ed7e-49aa-911d-1a7be9c3170a" />
@@ -60,9 +61,11 @@ I hope this program will help someone and make gaming without a runaway cursor e
 1. Press **Ctrl + Shift + Esc** to open **Task Manager**  
 2. Click the **Details** tab
    <img width="767" height="364" alt="image" src="https://github.com/user-attachments/assets/c4803186-e0df-47dc-b8b3-52d529b6be28" />
+   
 3. Find your running game (e.g., Heroes III)  
 4. In the **Name** column, you will see something like `HOMM3 2.0.exe`
   <img width="762" height="316" alt="image" src="https://github.com/user-attachments/assets/631b491e-117d-48ff-ae04-79a736d9b005" />
+  
 5. Copy this name and enter it in the program  
 
 ---
@@ -71,8 +74,10 @@ I hope this program will help someone and make gaming without a runaway cursor e
 
 1. Enter the process name in the GUI
    <img width="274" height="286" alt="image" src="https://github.com/user-attachments/assets/87f24c34-4aa4-4658-807f-88846e2ba4e4" />
+   
 2. Click **Confirm** (or the corresponding button in your GUI)
    <img width="254" height="266" alt="image" src="https://github.com/user-attachments/assets/3c251dca-92eb-4527-acd2-f7a4d38b6a57" />
+   
 3. The lock now works **only when the game is active**
 4. If you minimize the game – the lock disappears
 
