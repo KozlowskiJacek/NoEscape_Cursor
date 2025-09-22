@@ -40,7 +40,7 @@ I hope this program will help someone and make gaming without a runaway cursor e
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c9e82503-bf47-4680-b255-b4b514e0d462" width="400" alt="Downloaded folder" />
-  <p>Folder with the downloaded files</p>
+  <p>Download ZIP</p>
 </div>
 
 2. Extract the folder anywhere on your computer  
@@ -48,7 +48,7 @@ I hope this program will help someone and make gaming without a runaway cursor e
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6c39410a-ed7e-49aa-911d-1a7be9c3170a" width="300" alt="NoEscapeCursor exe" />
-  <p>Click the exe file to open the GUI</p>
+  <p>Click the NoEscape_Cursor file to open the GUI</p>
 </div>
 
 ---
@@ -111,11 +111,24 @@ I hope this program will help someone and make gaming without a runaway cursor e
 - To stop the program, just close the GUI (`X` in the top-right corner)  
 - After closing, the program does not run in the background  
 - After restarting the computer, the program **does not start automatically**  
-- The program runs in the background and shows a **H** icon in the system tray. If it doesn’t automatically stop when the GUI is closed, don’t worry – it won’t affect anything and will disappear after a computer restart. You can also right-click the icon and select **Exit** to close it manually.  
+- **Warning** The program runs in the background and shows a **H** icon in the system tray. If it doesn’t automatically stop when the GUI is closed, don’t worry – it won’t affect anything and will disappear after a computer restart. You can also right-click the icon and select **Exit** to close it manually.  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/47466510-b210-4300-8474-92c23384818e" width="200" alt="System tray icon" />
+  <img width="194" height="77" alt="image" src="https://github.com/user-attachments/assets/d161157e-11fc-4c66-8cc6-e0ebf6e05478" />
   <p>H icon in the system tray</p>
+</div>
+
+---
+
+## Process List
+
+- All entered process names are saved in a **list**.  
+- You can select a process name from the list instead of typing it again.  
+- If you no longer need a name or entered it incorrectly, you can **delete it** from the list.
+  
+<div align="center">
+  <img width="278" height="278" alt="image" src="https://github.com/user-attachments/assets/487724f7-38a3-4372-a7a6-23c0d44fba95" />
+  <p>Select the process to lock edges when active or delete selected</p>
 </div>
 
 ---
